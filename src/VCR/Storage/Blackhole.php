@@ -3,7 +3,7 @@
 namespace VCR\Storage;
 
 /**
- * Backhole storage, the storage that looses everything.
+ * Blackhole storage, the storage that looses everything.
  */
 class Blackhole implements Storage
 {
